@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Lvmb&#39;s Website</title>
-    <link>http://lvmb.xyz/categories/development/</link>
+    <link>https://lvmblog.netlify.app/categories/development/</link>
     <description>Recent content in Development on Lvmb&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate><atom:link href="http://lvmb.xyz/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate><atom:link href="https://lvmblog.netlify.app/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>http://lvmb.xyz/project/hugo/</link>
+      <link>https://lvmblog.netlify.app/project/hugo/</link>
       <pubDate>Sun, 10 Feb 2019 16:53:06 -0500</pubDate>
       
-      <guid>http://lvmb.xyz/project/hugo/</guid>
+      <guid>https://lvmblog.netlify.app/project/hugo/</guid>
       <description></description>
     </item>
     
