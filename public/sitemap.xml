@@ -3,172 +3,147 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://project1-test.netlify.app/categories/</loc>
     <lastmod>2019-02-10T16:53:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/development/</loc>
+    <loc>https://project1-test.netlify.app/categories/development/</loc>
     <lastmod>2019-02-10T16:53:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/development/</loc>
+    <loc>https://project1-test.netlify.app/tags/development/</loc>
     <lastmod>2019-02-10T16:53:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/project/hugo/</loc>
+    <loc>https://project1-test.netlify.app/project/hugo/</loc>
     <lastmod>2019-02-10T16:53:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://project1-test.netlify.app/</loc>
     <lastmod>2019-02-10T16:53:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/project/</loc>
+    <loc>https://project1-test.netlify.app/project/</loc>
     <lastmod>2019-02-10T16:53:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://project1-test.netlify.app/tags/</loc>
     <lastmod>2019-02-10T16:53:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/demo/</loc>
+    <loc>https://project1-test.netlify.app/tags/demo/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/image/</loc>
+    <loc>https://project1-test.netlify.app/tags/image/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://project1-test.netlify.app/post/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/the-figure-shortcode/</loc>
+    <loc>https://project1-test.netlify.app/post/the-figure-shortcode/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/post-with-featured-image/</loc>
+    <loc>https://project1-test.netlify.app/post/post-with-featured-image/</loc>
     <lastmod>2018-10-01T16:15:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/typography/</loc>
+    <loc>https://project1-test.netlify.app/tags/typography/</loc>
     <lastmod>2018-09-29T11:36:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/typography/</loc>
+    <loc>https://project1-test.netlify.app/post/typography/</loc>
     <lastmod>2018-09-29T11:36:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/post/crazy/</loc>
+    <loc>https://project1-test.netlify.app/post/crazy/</loc>
     <lastmod>2014-09-28T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/creating-a-new-theme/</loc>
+    <loc>https://project1-test.netlify.app/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/series/hugo-10111/</loc>
+    <loc>https://project1-test.netlify.app/series/hugo-10111/</loc>
     <lastmod>2014-09-28T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/series/hugo-1011sdfsdf1/</loc>
+    <loc>https://project1-test.netlify.app/series/hugo-1011sdfsdf1/</loc>
     <lastmod>2014-09-28T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/series/</loc>
+    <loc>https://project1-test.netlify.app/series/</loc>
     <lastmod>2018-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://project1-test.netlify.app/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/goisforlovers/</loc>
+    <loc>https://project1-test.netlify.app/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/hugoisforlovers/</loc>
+    <loc>https://project1-test.netlify.app/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/go/</loc>
+    <loc>https://project1-test.netlify.app/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/golang/</loc>
+    <loc>https://project1-test.netlify.app/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/hugo/</loc>
+    <loc>https://project1-test.netlify.app/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/series/hugo-101/</loc>
+    <loc>https://project1-test.netlify.app/series/hugo-101/</loc>
     <lastmod>2018-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/templates/</loc>
+    <loc>https://project1-test.netlify.app/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/themes/</loc>
+    <loc>https://project1-test.netlify.app/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/migrate-from-jekyll/</loc>
+    <loc>https://project1-test.netlify.app/post/migrate-from-jekyll/</loc>
     <lastmod>2018-03-10T00:00:00+00:00</lastmod>
   </url>
   

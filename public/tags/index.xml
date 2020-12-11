@@ -2,116 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lvmb&#39;s Website</title>
-    <link>http://example.org/tags/</link>
+    <link>https://project1-test.netlify.app/tags/</link>
     <description>Recent content in Tags on Lvmb&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate><atom:link href="https://project1-test.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>development</title>
-      <link>http://example.org/tags/development/</link>
+      <link>https://project1-test.netlify.app/tags/development/</link>
       <pubDate>Sun, 10 Feb 2019 16:53:06 -0500</pubDate>
       
-      <guid>http://example.org/tags/development/</guid>
+      <guid>https://project1-test.netlify.app/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>http://example.org/tags/demo/</link>
+      <link>https://project1-test.netlify.app/tags/demo/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>http://example.org/tags/demo/</guid>
+      <guid>https://project1-test.netlify.app/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image</title>
-      <link>http://example.org/tags/image/</link>
+      <link>https://project1-test.netlify.app/tags/image/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>http://example.org/tags/image/</guid>
+      <guid>https://project1-test.netlify.app/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Typography</title>
-      <link>http://example.org/tags/typography/</link>
+      <link>https://project1-test.netlify.app/tags/typography/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
-      <guid>http://example.org/tags/typography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plot</title>
-      <link>http://example.org/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>http://example.org/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>http://example.org/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>http://example.org/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>http://example.org/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>http://example.org/tags/regression/</guid>
+      <guid>https://project1-test.netlify.app/tags/typography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>http://example.org/tags/go/</link>
+      <link>https://project1-test.netlify.app/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0900</pubDate>
       
-      <guid>http://example.org/tags/go/</guid>
+      <guid>https://project1-test.netlify.app/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>http://example.org/tags/golang/</link>
+      <link>https://project1-test.netlify.app/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0900</pubDate>
       
-      <guid>http://example.org/tags/golang/</guid>
+      <guid>https://project1-test.netlify.app/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://example.org/tags/hugo/</link>
+      <link>https://project1-test.netlify.app/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0900</pubDate>
       
-      <guid>http://example.org/tags/hugo/</guid>
+      <guid>https://project1-test.netlify.app/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>http://example.org/tags/templates/</link>
+      <link>https://project1-test.netlify.app/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0900</pubDate>
       
-      <guid>http://example.org/tags/templates/</guid>
+      <guid>https://project1-test.netlify.app/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://example.org/tags/themes/</link>
+      <link>https://project1-test.netlify.app/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0900</pubDate>
       
-      <guid>http://example.org/tags/themes/</guid>
+      <guid>https://project1-test.netlify.app/tags/themes/</guid>
       <description></description>
     </item>
     

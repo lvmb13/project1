@@ -1,5 +1,5 @@
 theme = "contrast-hugo"
-baseURL = "http://example.org/"
+baseURL = "https://project1-test.netlify.app/"
 languageCode = "en-us"
 title = "Lvmb's Website"
 
