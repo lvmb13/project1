@@ -6,7 +6,16 @@
     <description>Recent content on Lvmb&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate><atom:link href="https://www.lvmb.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lvmb.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>posting test</title>
+      <link>https://www.lvmb.xyz/post/2020-12-11-posting-test/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lvmb.xyz/post/2020-12-11-posting-test/</guid>
+      <description>업로드 테스트 이걸 업로드를 하면 어떻게 되는지 알아보자</description>
+    </item>
+    
     <item>
       <title>Hugo</title>
       <link>https://www.lvmb.xyz/project/hugo/</link>

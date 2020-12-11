@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.lvmb.xyz/</loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lvmb.xyz/post/2020-12-11-posting-test/</loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lvmb.xyz/post/</loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.lvmb.xyz/categories/</loc>
     <lastmod>2019-02-10T16:53:06-05:00</lastmod>
   </url>
@@ -23,11 +38,6 @@
   </url>
   
   <url>
-    <loc>https://www.lvmb.xyz/</loc>
-    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.lvmb.xyz/project/</loc>
     <lastmod>2019-02-10T16:53:06-05:00</lastmod>
   </url>
@@ -44,11 +54,6 @@
   
   <url>
     <loc>https://www.lvmb.xyz/tags/image/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.lvmb.xyz/post/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
   
