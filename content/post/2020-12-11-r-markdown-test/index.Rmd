@@ -1,0 +1,10 @@
+---
+title: r markdown test
+author: Lvmb
+date: '2020-12-11'
+slug: []
+categories:
+  - R
+tags:
+  - R Markdown
+---
