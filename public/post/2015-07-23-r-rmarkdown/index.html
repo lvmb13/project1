@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<title>Hello R Markdown | Lvmb&#39;s Website</title>
+<meta charset="utf-8">
+<meta name="generator" content="Hugo 0.79.0" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="http://example.org/css/index.css">
+<link rel="canonical" href="http://example.org/post/2015-07-23-r-rmarkdown/">
+<link rel="alternate" type="application/rss+xml" href="" title="Lvmb&#39;s Website">
+
+<header>
+  
+  
+    <nav>
+    
+      <a href="https://twitter.com/lvmb13">Twitter</a>
+    
+    </nav>
+  
+    <nav>
+    
+      <a href="http://example.org/">Home 메인</a>
+    
+      <a href="http://example.org/about/">About 어바웃</a>
+    
+      <a href="http://example.org/post/">Blog 블로그</a>
+    
+      <a href="http://example.org/categories/">Categories 카테고리</a>
+    
+      <a href="http://example.org/tags/">Tags 태그</a>
+    
+      <a href="http://example.org/series/">Series 시리즈</a>
+    
+    </nav>
+  
+</header>
+
+<article>
+  <header>
+    <h1>Hello R Markdown</h1>
+    <time datetime="2015-07-23T21:13:14-05:00">July 23, 2015</time>
+  </header>
+  
+<link href="index_files/anchor-sections/anchor-sections.css" rel="stylesheet" />
+<script src="index_files/anchor-sections/anchor-sections.js"></script>
+
+
+<div id="r-markdown" class="section level1">
+<h1>R Markdown</h1>
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
+<p>You can embed an R code chunk like this:</p>
+<pre class="r"><code>summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932</code></pre>
+</div>
+<div id="including-plots" class="section level1">
+<h1>Including Plots</h1>
+<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
+<pre class="r"><code>par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
+  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
+  init.angle = -50, border = NA
+)</code></pre>
+<div class="figure"><span id="fig:pie"></span>
+<img src="index_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+<p class="caption">
+Figure 1: A fancy pie chart.
+</p>
+</div>
+</div>
+
+</article>
+
+
+
+</html>
