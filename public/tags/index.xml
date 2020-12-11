@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lvmb&#39;s Website</title>
-    <link>https://project1-test.netlify.app/tags/</link>
+    <link>http://lvmb.xyz/tags/</link>
     <description>Recent content in Tags on Lvmb&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate><atom:link href="https://project1-test.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate><atom:link href="http://lvmb.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>development</title>
-      <link>https://project1-test.netlify.app/tags/development/</link>
+      <link>http://lvmb.xyz/tags/development/</link>
       <pubDate>Sun, 10 Feb 2019 16:53:06 -0500</pubDate>
       
-      <guid>https://project1-test.netlify.app/tags/development/</guid>
+      <guid>http://lvmb.xyz/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://project1-test.netlify.app/tags/demo/</link>
+      <link>http://lvmb.xyz/tags/demo/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>https://project1-test.netlify.app/tags/demo/</guid>
+      <guid>http://lvmb.xyz/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image</title>
-      <link>https://project1-test.netlify.app/tags/image/</link>
+      <link>http://lvmb.xyz/tags/image/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>https://project1-test.netlify.app/tags/image/</guid>
+      <guid>http://lvmb.xyz/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Typography</title>
-      <link>https://project1-test.netlify.app/tags/typography/</link>
+      <link>http://lvmb.xyz/tags/typography/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
-      <guid>https://project1-test.netlify.app/tags/typography/</guid>
+      <guid>http://lvmb.xyz/tags/typography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://project1-test.netlify.app/tags/go/</link>
+      <link>http://lvmb.xyz/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0900</pubDate>
       
-      <guid>https://project1-test.netlify.app/tags/go/</guid>
+      <guid>http://lvmb.xyz/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://project1-test.netlify.app/tags/golang/</link>
+      <link>http://lvmb.xyz/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0900</pubDate>
       
-      <guid>https://project1-test.netlify.app/tags/golang/</guid>
+      <guid>http://lvmb.xyz/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://project1-test.netlify.app/tags/hugo/</link>
+      <link>http://lvmb.xyz/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0900</pubDate>
       
-      <guid>https://project1-test.netlify.app/tags/hugo/</guid>
+      <guid>http://lvmb.xyz/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>https://project1-test.netlify.app/tags/templates/</link>
+      <link>http://lvmb.xyz/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0900</pubDate>
       
-      <guid>https://project1-test.netlify.app/tags/templates/</guid>
+      <guid>http://lvmb.xyz/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://project1-test.netlify.app/tags/themes/</link>
+      <link>http://lvmb.xyz/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0900</pubDate>
       
-      <guid>https://project1-test.netlify.app/tags/themes/</guid>
+      <guid>http://lvmb.xyz/tags/themes/</guid>
       <description></description>
     </item>
     

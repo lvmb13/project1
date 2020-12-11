@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Lvmb&#39;s Website</title>
-    <link>https://project1-test.netlify.app/categories/</link>
+    <link>http://lvmb.xyz/categories/</link>
     <description>Recent content in Categories on Lvmb&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate><atom:link href="https://project1-test.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate><atom:link href="http://lvmb.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>https://project1-test.netlify.app/categories/development/</link>
+      <link>http://lvmb.xyz/categories/development/</link>
       <pubDate>Sun, 10 Feb 2019 16:53:06 -0500</pubDate>
       
-      <guid>https://project1-test.netlify.app/categories/development/</guid>
+      <guid>http://lvmb.xyz/categories/development/</guid>
       <description></description>
     </item>
     
