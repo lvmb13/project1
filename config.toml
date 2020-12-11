@@ -1,5 +1,5 @@
 theme = "contrast-hugo"
-baseURL = "https://lvmblog.netlify.app/"
+baseURL = "https://www.lvmb.xyz/"
 languageCode = "en-us"
 title = "Lvmb's Website"
 

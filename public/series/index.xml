@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Lvmb&#39;s Website</title>
-    <link>https://lvmblog.netlify.app/series/</link>
+    <link>https://www.lvmb.xyz/series/</link>
     <description>Recent content in Series on Lvmb&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0900</lastBuildDate><atom:link href="https://lvmblog.netlify.app/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0900</lastBuildDate><atom:link href="https://www.lvmb.xyz/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo 10111</title>
-      <link>https://lvmblog.netlify.app/series/hugo-10111/</link>
+      <link>https://www.lvmb.xyz/series/hugo-10111/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0900</pubDate>
       
-      <guid>https://lvmblog.netlify.app/series/hugo-10111/</guid>
+      <guid>https://www.lvmb.xyz/series/hugo-10111/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo 1011sdfsdf1</title>
-      <link>https://lvmblog.netlify.app/series/hugo-1011sdfsdf1/</link>
+      <link>https://www.lvmb.xyz/series/hugo-1011sdfsdf1/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0900</pubDate>
       
-      <guid>https://lvmblog.netlify.app/series/hugo-1011sdfsdf1/</guid>
+      <guid>https://www.lvmb.xyz/series/hugo-1011sdfsdf1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo 101</title>
-      <link>https://lvmblog.netlify.app/series/hugo-101/</link>
+      <link>https://www.lvmb.xyz/series/hugo-101/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0900</pubDate>
       
-      <guid>https://lvmblog.netlify.app/series/hugo-101/</guid>
+      <guid>https://www.lvmb.xyz/series/hugo-101/</guid>
       <description></description>
     </item>
     
