@@ -1,0 +1,74 @@
+theme = "contrast-hugo"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Lvmb's Website"
+
+
+
+
+canonifyURLs = true
+preserveTaxonomyNames = true
+
+
+
+
+# Define all supported taxonomies (add series to the default)
+[taxonomies]
+    tags = "tags"
+    categories = "categories"
+    series = "series"
+
+
+
+[menu]
+
+    # Configure main menu entries (header)
+    # Currently set to list all taxonomies and posts
+    
+      [[menu.main]]
+  name = "Home 메인"
+  identifier = "home"
+  weight = 1
+  url = "/"
+    
+    [[menu.main]]
+        identifier = "post"
+        name = "Blog 블로그"
+        title = "All posts"
+        url = "/post/"
+        weight = 2
+
+    [[menu.main]]
+        identifier = "categories"
+        name = "Categories 카테고리"
+        title = "All categories"
+        url = "/categories/"
+        weight = 3
+
+    [[menu.main]]
+        identifier = "tags"
+        name = "Tags 태그"
+        title = "All tags"
+        url = "/tags/"
+        weight = 4
+
+    [[menu.main]]
+        identifier = "series"
+        name = "Series 시리즈"
+        title = "All series"
+        url = "/series/"
+        weight = 5
+
+  [[menu.main]]
+  name = "About 어바웃"
+  url = "/about/"
+  weight = 2
+
+
+
+    # Add some footer links to your likings
+    [[menu.footer]]
+        name = "Twitter"
+        title = "Twitter page"
+        url = "https://twitter.com/lvmb13"
+        weight = 1
